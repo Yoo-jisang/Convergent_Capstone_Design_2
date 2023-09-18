@@ -1,0 +1,5 @@
+*/.ipynb_checkpoints/*
+
+# gihyeon
+/gihyeon_ws/generate_data_for_yolo_train/generated_data/*
+/gihyeon_ws/generate_data_for_yolo_train/raw_data/*
