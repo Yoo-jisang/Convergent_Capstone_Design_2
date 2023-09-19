@@ -1,0 +1,7 @@
+train: data/collection/images/train
+val: data/collection/images/val
+ 
+nc: 1
+names: ['plate']
+
+#  python train.py --data ./data/collection.yaml --epochs 50 --batch-size 4 --cfg ./models/yolov5m.yaml --weights ./pretrained/kaggle.pt --img 640

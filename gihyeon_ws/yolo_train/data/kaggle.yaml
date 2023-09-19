@@ -1,0 +1,7 @@
+train: data/kaggle/images/train
+val: data/kaggle/images/train
+ 
+nc: 1
+names: ['plate']
+
+# python train.py --data ./data/kaggle.yaml --epochs 100 --batch-size 4 --weights yolov5s.pt --img 640
