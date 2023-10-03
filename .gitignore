@@ -8,3 +8,5 @@
 /gihyeon_ws/frame_work/**/*pyc
 /gihyeon_ws/frame_work/**/*JPG
 /gihyeon_ws/frame_work/**/*pt
+
+/gihyeon_ws/generate_synthetic_plate/*
